@@ -1,10 +1,32 @@
-# Ejercicios Propuestos 
-Ejercicios de Práctica para aprender Python
+# Ejercicios Python 
 
-### A. Strings
+Docente: Estefanía Arias Torres
+
+Escuela Superior Politécnica del Litoral
+
+
+Recuerde que puede encontrar examenes anteriores en la página Oficial de [Fundamentos de Programación](http://programacion.espol.edu.ec/). Para ingresar deberá ingresar usando sus credenciales. 
+
+**Para las secciones A, B y C, se asume que el usuario ingresa exactamente lo que se le solicita.**
+
+### A. Strings y tipo de datos nativos
 
 1. Escriba un programa que solicite una palabra al usuario, y luego muestre **True** si la palabra es palíndrome, sino deberá mostrar **False**
-2. 
+
+2. Usted trabaja en una empresa de telefonía, y requiere calcular el tiempo de una llamada y el costo de la misma. El valor de la llamada por segundo es $0.002 . Escriba un programa que solicite al usuario, la hora de inicio y fin de la llamada, y le muestre por pantalla el tiempo en segundos que ha durado la llamada y el costo total a pagar.
+
+Ejemplo:
+
+```
+Calculadora de Costo de Llamada:
+
+Ingrese hora de inicio (hh:mm:ss): 09:08:08
+Ingrese hora de fin (hh:mm:ss): 10:09:15
+
+Su llamada duró 3667 segundos y su valor a pagar es $ 7.33
+
+```
+
 
 ### B. Aleatorios
 
@@ -22,7 +44,9 @@ Generar una carta aleatoria, y luego solicitar al usuario el ingreso de otra car
 Los siguientes ejericios requieren uso de Estructuras de Control como for y while. 
 
 1. Concatenar 2 litas índice por índice. 
+
 Ejemplo:
+
 ```
 list1 = [“Ho” , “m”, “nom”,”e”, “Ju”] 
 list2 = [“la”, “i”, “bre”, “s”, “lia”]
@@ -30,6 +54,8 @@ list2 = [“la”, “i”, “bre”, “s”, “lia”]
 Salida: 
 
 [“Hola”, “mi”, “nombre”, “es”, ”Julia”]
+
+
 ```
 2. Dada 2 listas, recorrer y mostrar por pantalla como se muestra a continuación. **(No usar la función reserve)**
 
@@ -94,5 +120,45 @@ Ingrese un número: 74
 
 Gracias! Ha completado 1019 en 8 intentos.
 ```
+8. Escriba un programa que le solicite un número al usuario y luego muestre la cuenta regresiva hasta llegar al mismo número, pero negativo. Ejemplo:
+```
+Ingrese un número: 6
+
+Salida:
+-6   -5  -4  -3  -2  -1  0  1  2  3  4  5  6
+```
+
+Tip: Para imprimir modifique el argumento “end” de la función print. [Ver Video](https://www.youtube.com/watch?v=vOeJqv1kGpo)
+
+9. Escriba un programa que le solicite un número al usuario y luego muestre una pirámide de acuerdo al número ingresado. Ejemplo:
+
+```
+Ingrese un número: 6
+
+*
+**
+***
+****
+*****
+******
+*****
+****
+***
+**
+*
+```
+
+10. Implementar un programa que agregue `*` antes y despues de cada vocal de una palabra ingresada por el usuario. 
+En caso de haber 2 vocales juntas, se deberá mostrar sólo 1 asterisco. Ejemplos:
+
+```
+Ingrese una palabra: mercado 
+Salida: m*e*rc*a*d*o*
+
+Ingrese una palabra: continuar 
+Salida: c*o*nt*i*n*u*a*r
+
+```
+
 
 
