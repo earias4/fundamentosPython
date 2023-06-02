@@ -4,6 +4,8 @@ Docente: Estefanía Arias Torres
 
 Escuela Superior Politécnica del Litoral
 
+:exclamation: Para obtener la versión mas actualizada de esta página, presione CRTL + F5
+
 
 Recuerde que puede encontrar examenes anteriores en la página Oficial de [Fundamentos de Programación](http://programacion.espol.edu.ec/). Para ingresar deberá ingresar usando sus credenciales. 
 
@@ -15,7 +17,6 @@ Tabla de Contenido
 
 
 **Para las secciones A, B y C, se asume que el usuario ingresa exactamente lo que se le solicita.**
-# Hola
 ### A. Strings y tipos de datos nativos
 
 1. Escriba un programa que solicite una palabra al usuario, y luego muestre **True** si la palabra es palíndrome, sino deberá mostrar **False**
@@ -33,7 +34,28 @@ Ingrese hora de fin (hh:mm:ss): 10:09:15
 Su llamada duró 3667 segundos y su valor a pagar es $ 7.33
 
 ```
+3. Escriba un programa de Python que le solicite una palabra al usuario y luego haga el siguiente cambio:
 
+- Cambiar todas las ocurrencias de la primera letra de la cadena por un `$` **a excepción de la primera letra.**
+
+Ejemplos:
+```
+Ingrese una palabra: restart
+Salida: resta$t
+```
+
+```
+Ingrese una palabra: amapolas amarillas
+Salida: am$pol$s $m$rill$s
+```
+
+4. Escriba un programa que remueva todos los caracteres que se encuentren en posición par. 
+Ejemplo:
+
+```
+Ingrese una palara: marioneta
+Salida: aint
+```
 
 ### B. Aleatorios
 
@@ -46,6 +68,9 @@ cartas = [“AS”, 2, 3, 4, 5, 6, 7, 8 , 9, 10, “J”, “Q”, “K”]
 ```
 
 Generar una carta aleatoria, y luego solicitar al usuario el ingreso de otra carta. Si el usuario adivina la carta que sacó el computador, entonces gana el juego. Mostrar los mensajes correspondientes. **No modificar la lista de cartas.**
+
+3. Escriba un programa que intercambie 2 letras en una palabra. Para esto deberá escoger 2 indices aleatorios y luego intercambiarlos. 
+
 
 ### C. Listas y Estructuras de Control
 Los siguientes ejericios requieren uso de Estructuras de Control como for y while. 
@@ -166,6 +191,7 @@ Ingrese una palabra: continuar
 Salida: c*o*nt*i*n*u*a*r
 
 ```
+
 
 
 
