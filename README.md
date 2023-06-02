@@ -9,11 +9,13 @@ Escuela Superior Politécnica del Litoral
 
 Recuerde que puede encontrar examenes anteriores en la página Oficial de [Fundamentos de Programación](http://programacion.espol.edu.ec/). Para ingresar deberá ingresar usando sus credenciales. 
 
-Tabla de Contenido
+Contenido:
 
 [A. Strings y tipos de datos nativos](#a-strings-y-tipos-de-datos-nativos)  
 [B. Aleatorios](#b-aleatorios)  
 [C. Listas y Estructuras de Control](#c-listas-y-estructuras-de-control)
+
+
 
 
 **Para las secciones A, B y C, se asume que el usuario ingresa exactamente lo que se le solicita.**
