@@ -9,13 +9,14 @@ Recuerde que puede encontrar examenes anteriores en la página Oficial de [Funda
 
 Tabla de Contenido
 
-[1. Seccion A](#hola)
+[A. Strings y tipos de datos nativos](#a-strings-y-tipos-de-datos-nativos)  
+[B. Aleatorios](#b-aleatorios)  
+[C. Listas y Estructuras de Control](#c-listas-y-estructuras-de-control)
 
-[2. hola](#c-listas-y-estructuras-de-control)
 
 **Para las secciones A, B y C, se asume que el usuario ingresa exactamente lo que se le solicita.**
 # Hola
-### A. Strings y tipo de datos nativos
+### A. Strings y tipos de datos nativos
 
 1. Escriba un programa que solicite una palabra al usuario, y luego muestre **True** si la palabra es palíndrome, sino deberá mostrar **False**
 
