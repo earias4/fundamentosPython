@@ -44,7 +44,8 @@ Salida:
 30 200
 40 100
 ```
-3. Remover los string vacíos de una lista>
+
+3. Remover los string vacíos de una lista.
 
 ```
 L3 = [“hola”, “”, “soy” , “”, “una”, “”, “”, “lista”]
@@ -54,4 +55,44 @@ L4 = [“hola”, “soy”, “una”, “lista”]
 ```
 
 4. Dado un párrafo, mostrar el texto sin tildes y a su vez mostrar la cantidad de vocales totales que contiene dicho texto. (Ej. 25 vocales en total, no es necesario que indiquen cuántas a,e, etc. )
+
+5. Escriba un programa que dado una lista L, imprima por pantalla cuantos elementos de cada lista son números enteros y cuantos son sólo letras. 
+Ejemplo:
+
+```
+L = ["hola", "1.25","1500","fundamentos", "20 años","2.5", "100", "ESPOL"]
+
+Salida:
+Existen 3 palabras en su lista.
+Existen 2 números enteros en su lista.
+```
+
+6. Continuando con el ejercicio anterior, ahora muestre qué elementos de la lista con sólo número enteros, sólo letras y cuáles son otros tipos de datos. Adicional mostrar la suma de los números encontrados. Ejemplo:
+
+```
+L = ["hola", "1.25","1500","fundamentos","20 años","2.5","100","ESPOL"] 
+
+Salida de su programa:
+Letras: ['hola', 'fundamentos', 'ESPOL'] 
+Números enteros: [1500, 100], 
+Suma: 1600 
+Otros: ['1.25', '20 años', '2.5']
+```
+7. Escriba un programa que solicite varios números al usuario, **hasta** que la suma de dichos números sea igual o mayor a 1000. Además, mostrar la suma final de todos los numeros ingresados y el número de intentos. 
+ 
+Ejemplo:
+
+```
+Ingrese un número: 23
+Ingrese un número: 561
+Ingrese un número: 25
+Ingrese un número: 96
+Ingrese un número: 152
+Ingrese un número: 32
+Ingrese un número: 56
+Ingrese un número: 74
+
+Gracias! Ha completado 1019 en 8 intentos.
+```
+
 
