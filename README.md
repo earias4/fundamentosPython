@@ -156,7 +156,9 @@ Ingrese un número: 74
 
 Gracias! Ha completado 1019 en 8 intentos.
 ```
+
 8. Escriba un programa que le solicite un número al usuario y luego muestre la cuenta regresiva hasta llegar al mismo número, pero negativo. Ejemplo:
+
 ```
 Ingrese un número: 6
 
