@@ -4,6 +4,8 @@ Docente: Estefanía Arias Torres
 
 Escuela Superior Politécnica del Litoral
 
+**Ultima Edición: Viernes 2 de Junio, 15h00**
+
 :exclamation:Para obtener la versión mas actualizada de esta página, presione CRTL + F5
 
 
