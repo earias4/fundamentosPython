@@ -7,8 +7,14 @@ Escuela Superior Politécnica del Litoral
 
 Recuerde que puede encontrar examenes anteriores en la página Oficial de [Fundamentos de Programación](http://programacion.espol.edu.ec/). Para ingresar deberá ingresar usando sus credenciales. 
 
-**Para las secciones A, B y C, se asume que el usuario ingresa exactamente lo que se le solicita.**
+Tabla de Contenido
 
+[1. Seccion A](#hola)
+
+[2. hola](#c-listas-y-estructuras-de-control)
+
+**Para las secciones A, B y C, se asume que el usuario ingresa exactamente lo que se le solicita.**
+# Hola
 ### A. Strings y tipo de datos nativos
 
 1. Escriba un programa que solicite una palabra al usuario, y luego muestre **True** si la palabra es palíndrome, sino deberá mostrar **False**
