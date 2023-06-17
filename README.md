@@ -26,7 +26,7 @@ Contenido:
 #### Ejercicio 1
 Escriba un programa que solicite una palabra al usuario, y luego muestre **True** si la palabra es palíndrome, sino deberá mostrar **False**
 
-#### 2
+#### Ejercicio 2
 Usted trabaja en una empresa de telefonía, y requiere calcular el tiempo de una llamada y el costo de la misma. El valor de la llamada por segundo es $0.002 . Escriba un programa que solicite al usuario, la hora de inicio y fin de la llamada, y le muestre por pantalla el tiempo en segundos que ha durado la llamada y el costo total a pagar.
 
 Ejemplo:
@@ -40,7 +40,8 @@ Ingrese hora de fin (hh:mm:ss): 10:09:15
 Su llamada duró 3667 segundos y su valor a pagar es $ 7.33
 
 ```
-3. Escriba un programa de Python que le solicite una palabra al usuario y luego haga el siguiente cambio:
+#### Ejercicio 3
+Escriba un programa de Python que le solicite una palabra al usuario y luego haga el siguiente cambio:
 
 - Cambiar todas las ocurrencias de la primera letra de la cadena por un `$` **a excepción de la primera letra.**
 
@@ -54,8 +55,8 @@ Salida: resta$t
 Ingrese una palabra: amapolas amarillas
 Salida: am$pol$s $m$rill$s
 ```
-
-4. Escriba un programa que remueva todos los caracteres que se encuentren en posición par. 
+#### Ejercicio 4
+Escriba un programa que remueva todos los caracteres que se encuentren en posición par. 
 Ejemplo:
 
 ```
@@ -65,23 +66,27 @@ Salida: aint
 
 ### B. Aleatorios
 
-1. Genere una fecha aleatoria. Es decir un número que corresponda a los meses y otro para el año (1900-2100). 
+#### Ejercicio 1
+Genere una fecha aleatoria. Es decir un número que corresponda a los meses y otro para el año (1900-2100). 
 Muéstrelo en pantalla y además indique el número de meses que faltan o que han transcurrido desde dicha fecha. Puede tomar como referencia el mes actual 06/2023.
 
-2. Dada la siguiente lista de cartas:
+#### Ejercicio 2
+Dada la siguiente lista de cartas:
 ```
 cartas = [“AS”, 2, 3, 4, 5, 6, 7, 8 , 9, 10, “J”, “Q”, “K”]
 ```
 
 Generar una carta aleatoria, y luego solicitar al usuario el ingreso de otra carta. Si el usuario adivina la carta que sacó el computador, entonces gana el juego. Mostrar los mensajes correspondientes. **No modificar la lista de cartas.**
 
-3. Escriba un programa que intercambie 2 letras en una palabra. Para esto deberá escoger 2 indices aleatorios y luego intercambiarlos. 
+#### Ejercicio 3
+Escriba un programa que intercambie 2 letras en una palabra. Para esto deberá escoger 2 indices aleatorios y luego intercambiarlos. 
 
 
 ### C. Listas y Estructuras de Control
 Los siguientes ejericios requieren uso de Estructuras de Control como for y while. 
 
-1. Concatenar 2 litas índice por índice. 
+#### Ejercicio 1
+Concatenar 2 litas índice por índice. 
 
 Ejemplo:
 
@@ -95,7 +100,8 @@ Salida:
 
 
 ```
-2. Dada 2 listas, recorrer y mostrar por pantalla como se muestra a continuación. **(No usar la función reserve)**
+#### Ejercicio 2
+Dada 2 listas, recorrer y mostrar por pantalla como se muestra a continuación. **(No usar la función reserve)**
 
 ```
 L1 = [10, 20, 30, 40]
@@ -109,7 +115,8 @@ Salida:
 40 100
 ```
 
-3. Remover los string vacíos de una lista.
+#### Ejercicio 3
+Remover los string vacíos de una lista.
 
 ```
 L3 = [“hola”, “”, “soy” , “”, “una”, “”, “”, “lista”]
@@ -118,9 +125,11 @@ Salida:
 L4 = [“hola”, “soy”, “una”, “lista”]
 ```
 
-4. Dado un párrafo, mostrar el texto sin tildes y a su vez mostrar la cantidad de vocales totales que contiene dicho texto. (Ej. 25 vocales en total, no es necesario que indiquen cuántas a,e, etc. )
+#### Ejercicio 4
+Dado un párrafo, mostrar el texto sin tildes y a su vez mostrar la cantidad de vocales totales que contiene dicho texto. (Ej. 25 vocales en total, no es necesario que indiquen cuántas a,e, etc. )
 
-5. Escriba un programa que dado una lista L, imprima por pantalla cuantos elementos de cada lista son números enteros y cuantos son sólo letras. 
+#### Ejercicio 5
+Escriba un programa que dado una lista L, imprima por pantalla cuantos elementos de cada lista son números enteros y cuantos son sólo letras. 
 Ejemplo:
 
 ```
@@ -131,7 +140,8 @@ Existen 3 palabras en su lista.
 Existen 2 números enteros en su lista.
 ```
 
-6. Continuando con el ejercicio anterior, ahora muestre qué elementos de la lista con sólo número enteros, sólo letras y cuáles son otros tipos de datos. Adicional mostrar la suma de los números encontrados. Ejemplo:
+#### Ejercicio 6
+Continuando con el ejercicio anterior, ahora muestre qué elementos de la lista con sólo número enteros, sólo letras y cuáles son otros tipos de datos. Adicional mostrar la suma de los números encontrados. Ejemplo:
 
 ```
 L = ["hola", "1.25","1500","fundamentos","20 años","2.5","100","ESPOL"] 
@@ -142,7 +152,8 @@ Números enteros: [1500, 100],
 Suma: 1600 
 Otros: ['1.25', '20 años', '2.5']
 ```
-7. Escriba un programa que solicite varios números al usuario, **hasta** que la suma de dichos números sea igual o mayor a 1000. Además, mostrar la suma final de todos los numeros ingresados y el número de intentos. 
+#### Ejercicio 7
+Escriba un programa que solicite varios números al usuario, **hasta** que la suma de dichos números sea igual o mayor a 1000. Además, mostrar la suma final de todos los numeros ingresados y el número de intentos. 
  
 Ejemplo:
 
@@ -159,7 +170,8 @@ Ingrese un número: 74
 Gracias! Ha completado 1019 en 8 intentos.
 ```
 
-8. Escriba un programa que le solicite un número al usuario y luego muestre la cuenta regresiva hasta llegar al mismo número, pero negativo. Ejemplo:
+#### Ejercicio 8
+Escriba un programa que le solicite un número al usuario y luego muestre la cuenta regresiva hasta llegar al mismo número, pero negativo. Ejemplo:
 
 ```
 Ingrese un número: 6
@@ -170,7 +182,8 @@ Salida:
 
 Tip: Para imprimir modifique el argumento “end” de la función print. [Ver Video](https://www.youtube.com/watch?v=vOeJqv1kGpo)
 
-9. Escriba un programa que le solicite un número al usuario y luego muestre una pirámide de acuerdo al número ingresado. Ejemplo:
+#### Ejercicio 9
+Escriba un programa que le solicite un número al usuario y luego muestre una pirámide de acuerdo al número ingresado. Ejemplo:
 
 ```
 Ingrese un número: 6
@@ -188,7 +201,8 @@ Ingrese un número: 6
 *
 ```
 
-10. Implementar un programa que agregue `*` antes y despues de cada vocal de una palabra ingresada por el usuario. 
+#### Ejercicio 10
+Implementar un programa que agregue `*` antes y despues de cada vocal de una palabra ingresada por el usuario. 
 En caso de haber 2 vocales juntas, se deberá mostrar sólo 1 asterisco. Ejemplos:
 
 ```
