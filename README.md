@@ -4,7 +4,7 @@ Docente: Estefanía Arias Torres
 
 Escuela Superior Politécnica del Litoral
 
-**Ultima Edición: Viernes 2 de Junio, 15h00**
+**Ultima Edición: Sábado 17 de Junio, 18h00**
 
 :exclamation:Para obtener la versión mas actualizada de esta página, presione CRTL + F5
 
@@ -23,9 +23,11 @@ Contenido:
 **Para las secciones A, B y C, se asume que el usuario ingresa exactamente lo que se le solicita.**
 ### A. Strings y tipos de datos nativos
 
-1. Escriba un programa que solicite una palabra al usuario, y luego muestre **True** si la palabra es palíndrome, sino deberá mostrar **False**
+#### Ejercicio 1
+Escriba un programa que solicite una palabra al usuario, y luego muestre **True** si la palabra es palíndrome, sino deberá mostrar **False**
 
-2. Usted trabaja en una empresa de telefonía, y requiere calcular el tiempo de una llamada y el costo de la misma. El valor de la llamada por segundo es $0.002 . Escriba un programa que solicite al usuario, la hora de inicio y fin de la llamada, y le muestre por pantalla el tiempo en segundos que ha durado la llamada y el costo total a pagar.
+#### 2
+Usted trabaja en una empresa de telefonía, y requiere calcular el tiempo de una llamada y el costo de la misma. El valor de la llamada por segundo es $0.002 . Escriba un programa que solicite al usuario, la hora de inicio y fin de la llamada, y le muestre por pantalla el tiempo en segundos que ha durado la llamada y el costo total a pagar.
 
 Ejemplo:
 
