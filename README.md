@@ -215,5 +215,27 @@ Salida: c*o*nt*i*n*u*a*r
 ```
 
 
+#### Ejercicio 11
+
+En la lista de productos se guarda el registro de los productos que se venden en un market. La lista tiene el formato `producto,precio,descuento`. El último campo indica:
+
+* Si:  se aplica un descuento por ventas al por mayor: 15% de descuento si se compran más de 6 productos.
+* No: no se aplica nigún descuento.
+  
+```python
+productos = ["atun,0.90,No", "leche,1.10,Si", "arroz,0.56,No", "cafe,3.4,Si" , "azucar,0.78,Si",....] 
+
+```
+
+Escriba un programa que dada una lista de compras, calcule el precio total de la compra, aplicando los descuentos correspondientes. 
+Cada elemento de la lista de compras tiene el formato `producto,cantidad`
+
+```python
+compras = ["atun,20","aceite,2"...]
+```
+
+
+
+
 
 
