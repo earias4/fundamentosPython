@@ -258,7 +258,16 @@ Tabla de multiplicar del 5:
 5 x 12 = 60
 
 ```
+#### Ejercicio 13
 
+Escriba un programa que reciba una lista de palabras y las ordene según la longitud de las cadenas de forma ascendente. Muestre por pantalla cada palabra. Ejemplo:
+
+```palabras =[]```
+
+
+#### Ejercicio 14
+
+Ordenar dos listas paralelas 
 
 
 
