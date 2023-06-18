@@ -262,13 +262,27 @@ Tabla de multiplicar del 5:
 
 Escriba un programa que reciba una lista de palabras y las ordene según la longitud de las cadenas de forma ascendente. Muestre por pantalla cada palabra. Ejemplo:
 
-```palabras =[]```
+```python 
+palabras =["uvas", "calculadora", "parlantes", "Guayaquileño", "sol", "polea"]
+```
+La salida será la siguiente:
+```
+1. sol
+2. uvas
+3. polea
+4. parlantes
+5. calculadora
+6. Guayaquileño
+```
 
 
 #### Ejercicio 14
 
-Ordenar dos listas paralelas 
+Correción de palabras repetidas: Escriba un programa que dado un párrafo elimine las palabras repetidas seguidas. 
 
+```python 
+texto = "La programación es es fundamental en la era digital. Permite crear soluciones innovadoras, automatizar tareas y potenciar la productividad. Aprender a a programar abre puertas a nuevas oportunidades laborales y y fomenta el el pensamiento lógico y creativo. Con la programación, podemos transformar ideas ideas en realidad y construir un futuro futuro tecnológico."
+```
 
 
 
