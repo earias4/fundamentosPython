@@ -295,6 +295,7 @@ Implementar el juego del ahorcado, pero ahora completo. El juego tiene las sigui
 6. Si la letra no existe, se mostrará un mensaje. 
 7. Luego podrá intentar adivinar la palabra. (ver ejemplo)
 9. El juego termina cuando se le acaban los intentos o si ya adivina la palabra completa.
+10. En cada turno, se deberá mostrar el número de vidas que le quedan. 
 
  ![Ahorcado](/ahorcado.png)
 
