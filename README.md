@@ -284,6 +284,21 @@ Correción de palabras repetidas: Escriba un programa que dado un párrafo elimi
 texto = "La programación es es fundamental en la era digital. Permite crear soluciones innovadoras, automatizar tareas y potenciar la productividad. Aprender a a programar abre puertas a nuevas oportunidades laborales y y fomenta el el pensamiento lógico y creativo. Con la programación, podemos transformar ideas ideas en realidad y construir un futuro futuro tecnológico."
 ```
 
+#### Ejercicio 15
+
+Implementar el juego del ahorcado, pero ahora completo. El juego tiene las siguientes reglas: 
+1. Se escoge una palabra al azar de una lista de palabras.
+2. El usuario tiene varios intentos para adivinar la palabra. El número de intentos que tiene disponible es la mitad de la longitud de la palabra a adivinar.
+3. Inicialmente se mostrará sólo guiones que representen la cantidad de letras que tiene cada palabra. 
+4. En cada turno el usuario ingresará solo una letra. (validar).
+5. Si la letra existe en la palabra, se mostrará en su lugar correspondiente.
+6. Si la letra no existe, se mostrará un mensaje. 
+7. Luego podrá intentar adivinar la palabra. (ver ejemplo)
+9. El juego termina cuando se le acaban los intentos o si ya adivina la palabra completa.
+
+   
+    
+
 
 
 
