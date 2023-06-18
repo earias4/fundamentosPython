@@ -296,6 +296,10 @@ Implementar el juego del ahorcado, pero ahora completo. El juego tiene las sigui
 7. Luego podrá intentar adivinar la palabra. (ver ejemplo)
 9. El juego termina cuando se le acaban los intentos o si ya adivina la palabra completa.
 
+ ![Ahorcado](/ahorcado.png)
+
+
+
    
     
 
