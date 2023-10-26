@@ -4,10 +4,6 @@ Docente: Estefanía Arias Torres
 
 Escuela Superior Politécnica del Litoral
 
-**Ultima Edición: Sábado 17 de Junio, 18h00**
-
-:exclamation:Para obtener la versión mas actualizada de esta página, presione CRTL + F5
-
 
 Recuerde que puede encontrar examenes anteriores en la página Oficial de [Fundamentos de Programación](http://programacion.espol.edu.ec/). Para ingresar deberá ingresar usando sus credenciales. 
 
